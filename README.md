@@ -1,7 +1,7 @@
 # COMPSCI7209
 Use Poisson Distribution to Predict football correct scores
 1. Introduction
-Background/Context
+#Background/Context
 Being the most popular sport, football is no longer purely a sport but also an economy. The value in the football business is enormous, with gambling on football contributing a large portion. In 2023 to 2024, the amount of football betting in Hong Kong reached 160 billion HKD(Hong Kong Jockey Club, n.d.) .
 Football goals are relatively rare, discrete events, making the Poisson distribution a natural fit for modelling score outcomes(Paul Trevor,2024). In this report, I am going to use this statistical model to predict scores and apply different approaches to improve accuracy.
 Motivation
